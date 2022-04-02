@@ -1,5 +1,5 @@
 # NoTrust
-Chrome extension that blocks you from visiting untrusted/dangerous sites.
+Chrome extension that prevents you from visiting untrusted/dangerous sites.
 
 ### Todo for 1.0 release
 - [ ] Decentralized database. 
